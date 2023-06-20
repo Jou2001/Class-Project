@@ -1,2 +1,2 @@
 # Class-Project
-Those folders are the projects that I made in the class during the univerrsity.
+Those folders are the projects that I made in the class during the university.
